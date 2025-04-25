@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Antônio, but you can call me Toni. I'm a Fullstack developer with emphasis on Back-end. I'm from Blumenau-SC, Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Antônio, but you can call me Toni. I'm a Fullstack developer with emphasis on Back-end. I'm currently working at a top 3 tech company in my country. I'm from Blumenau-SC, Brazil.</h2>
 
 ###
 
